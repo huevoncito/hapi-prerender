@@ -22,7 +22,7 @@
     "hapi": "^14.x.x"
   },
   "dependencies": {
-    "hoek": "^4.0.1",
+    "hoek": "^5.0.3",
     "request": "^2.81.0"
   },
   "devDependencies": {
